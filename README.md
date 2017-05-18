@@ -1,1 +1,3 @@
-# Gvint
+Gvint
+
+Game for java practice
